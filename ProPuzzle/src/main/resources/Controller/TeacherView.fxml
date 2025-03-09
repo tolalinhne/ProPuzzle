@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1"
+            xmlns="http://javafx.com/javafx/21"
+            fx:controller="Controller.TeacherController"
+            prefWidth="900" prefHeight="600">
+
+    <!-- Bố cục chia thành 2 phần: Bên trái quản lý câu hỏi, bên phải quản lý đề thi -->
+    <HBox spacing="20" layoutX="10" layoutY="10">
+
+        <!-- Phần quản lý câu hỏi -->
+        <VBox spacing="10">
+            <Label text="Question Management" style="-fx-font-size: 16px; -fx-font-weight: bold;" />
+
+            <!-- Bảng hiển thị câu hỏi -->
+            <TableView fx:id="tableQuestions" prefHeight="300" prefWidth="400">
+                <columns>
+                    <TableColumn fx:id="colQuestionId" text="ID" prefWidth="50" />
+                    <TableColumn fx:id="colContent" text="Content" prefWidth="200" />
+                    <TableColumn fx:id="colCorrectAnswer" text="Answer" prefWidth="80" />
+                </columns>
+            </TableView>
+
+            <!-- Khu vực nhập câu hỏi mới hoặc chỉnh sửa -->
+            <Label text="Question Content:" />
+            <TextField fx:id="txtQuestionContent" prefWidth="400" />
+
+            <HBox spacing="5">
+                <Label text="A:" />
+                <TextField fx:id="txtOptionA" prefWidth="80" />
+                <Label text="B:" />
+                <TextField fx:id="txtOptionB" prefWidth="80" />
+                <Label text="C:" />
+                <TextField fx:id="txtOptionC" prefWidth="80" />
+                <Label text="D:" />
+                <TextField fx:id="txtOptionD" prefWidth="80" />
+            </HBox>
+
+            <Label text="Correct Answer:" />
+            <TextField fx:id="txtCorrectAnswer" prefWidth="50" promptText="A/B/C/D" />
+
+            <HBox spacing="10">
+                <Button text="Create Question" onAction="#handleCreateQuestion" />
+                <Button text="Update Question" onAction="#handleUpdateQuestion" />
+            </HBox>
+        </VBox>
+
+        <!-- Phần quản lý đề thi -->
+        <VBox spacing="10">
+            <Label text="Exam Management" style="-fx-font-size: 16px; -fx-font-weight: bold;" />
+
+            <!-- Bảng hiển thị đề thi -->
+            <TableView fx:id="tableExams" prefHeight="300" prefWidth="400">
+                <columns>
+                    <TableColumn fx:id="colExamId" text="ID" prefWidth="50" />
+                    <TableColumn fx:id="colExamName" text="Exam Name" prefWidth="150" />
+                    <TableColumn fx:id="colStartTime" text="Start Time" prefWidth="100" />
+                    <TableColumn fx:id="colEndTime" text="End Time" prefWidth="100" />
+                </columns>
+            </TableView>
+
+            <Label text="Exam Name:" />
+            <TextField fx:id="txtExamName" prefWidth="200" />
+
+            <HBox spacing="5">
+                <Label text="Start:" />
+                <TextField fx:id="txtStartTime" promptText="YYYY-MM-DD HH:mm" prefWidth="130" />
+                <Label text="End:" />
+                <TextField fx:id="txtEndTime" promptText="YYYY-MM-DD HH:mm" prefWidth="130" />
+            </HBox>
+
+            <HBox spacing="10">
+                <Button text="Create Exam" onAction="#handleCreateExam" />
+                <Button text="Update Exam" onAction="#handleUpdateExam" />
+            </HBox>
+        </VBox>
+    </HBox>
+
+    <!-- Nút Logout -->
+    <Button layoutX="780" layoutY="560" text="Logout" onAction="#handleLogout" />
+</AnchorPane>
