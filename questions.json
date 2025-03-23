@@ -1,0 +1,758 @@
+[
+  {
+    "questionId": "Q1742337654092",
+    "content": "1 + 1 \u003d",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "5",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742337733443",
+    "content": "2 x 2 \u003d",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742338454893",
+    "content": "3 x 3 \u003d",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742338843543",
+    "content": "Vào dịp tết Nguyên đán, bà An gói bánh chưng cho gia đình. Nguyên liệu để làm bánh gồm gạo nếp, đậu xanh, thịt lợn và lá dong. Mỗi cái bánh chưng sau khi nói lặng khoảng 0,9 kg gồm 0,5 kg gạo; 0,125 kg đậu xanh; 0,04 kg lá dong, còn lại là thịt. Hỏi khối lượng thịt trong mỗi cái bánh chưng là khoảng bao nhiêu?",
+    "optionA": "0,235 kg",
+    "optionB": "0,2 kg",
+    "optionC": "0,35 kg",
+    "optionD": "0,325 kg",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742339316937",
+    "content": "Tìm x biết:  \nx + 1 \u003d 2",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742363595990",
+    "content": "Hãy cho biết biện pháp cơ bản để có giá trị thặng dư siêu ngạch?",
+    "optionA": "Tăng NSLD cá biệt cao hơn NSLD xã hội",
+    "optionB": "Tăng cường độ lao động",
+    "optionC": "Tăng NSLD xã hội",
+    "optionD": "Vừa kéo dài ngày lao động vừa tăng NSLD cá biệt",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    }
+  },
+  {
+    "questionId": "Q1742363648422",
+    "content": "Hàng hóa là:",
+    "optionA": "Sản phẩm của LD có thể thõa mãn như cầu nào đó của con người thông qua mua bán, trao đổi",
+    "optionB": "Sản phẩm có sẵn trong tự nhiên",
+    "optionC": "Sản phẩm nhằm thỏa mãn như cầu của con người",
+    "optionD": "Sản phẩm thỏa mãn nhu cầu người trực tiếp sản xuống và gia đình anh ta",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    }
+  },
+  {
+    "questionId": "Q1742363768864",
+    "content": "Thuật ngữ \"kinh tế- chính trị\" được sử dụng lần đầu tiên vào năm nào?",
+    "optionA": "1610",
+    "optionB": "1612",
+    "optionC": "1615",
+    "optionD": "1618",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    }
+  },
+  {
+    "questionId": "Q1742363853180",
+    "content": "Cơ sở chung của quan hệ trao đổi giữa các hàng hóa là gì?",
+    "optionA": "Hao phí lao động kết tinh trong hàng hóa",
+    "optionB": "Công dụng của hàng hóa",
+    "optionC": "Sở thích của người tiêu dùng",
+    "optionD": "Sự khan hiếm của hàng hóa",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    }
+  },
+  {
+    "questionId": "Q1742364010660",
+    "content": "Số IV được đọc là:",
+    "optionA": "Mười lăm",
+    "optionB": "Một năm",
+    "optionC": "Bốn",
+    "optionD": "Sáu",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742364048346",
+    "content": "Số 3 048 làm tròn đến chữ số hàng chục ta được số:",
+    "optionA": "3 050",
+    "optionB": "3 040",
+    "optionC": "3 000",
+    "optionD": "3 100",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742364105738",
+    "content": "Tháng nào sau đây có 31 ngày?",
+    "optionA": "Tháng 2",
+    "optionB": "Tháng 4",
+    "optionC": "Tháng 9",
+    "optionD": "Tháng 12",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742364140316",
+    "content": "Bạn Nam mang hai tờ tiền có mệnh giá 10 000 đồng đi mua bút chì. Bạn mua hết 15 000. Bạn Nam còn thừa ...………đồng.",
+    "optionA": "10 000 đồng",
+    "optionB": "5 000 đồng",
+    "optionC": "2 000 đồng",
+    "optionD": "1 000 đồng",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742364278301",
+    "content": "Minh có 5 tờ tiền mệnh giá 20 000 đồng. Số tiền Minh có là:",
+    "optionA": "25 000 đồng",
+    "optionB": "50 000 đồng",
+    "optionC": "100 000 đồng",
+    "optionD": "150 000 đồng",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742364314304",
+    "content": "Trong hộp có 1 quả bóng xanh, 1 quả bóng đó, 1 quả bóng vàng. Khi lấy một quả bóng từ trong chiếc hộp thì có mấy khả năng xảy ra:",
+    "optionA": "0",
+    "optionB": "1",
+    "optionC": "2",
+    "optionD": "3",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742364509386",
+    "content": "Phép chia nào dưới đây có số dư là 1?",
+    "optionA": "15 247 : 5",
+    "optionB": "23 016 : 4",
+    "optionC": "12 364 : 3",
+    "optionD": "58 110 : 9",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742364562108",
+    "content": "Số gồm 2 chục nghìn, 3 nghìn, 8 trăm, 5 chục và hai đơn vị viết là:",
+    "optionA": "32 852",
+    "optionB": "23 582",
+    "optionC": "32 258",
+    "optionD": "23 852",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Toán"
+    }
+  },
+  {
+    "questionId": "Q1742416473359",
+    "content": "Tổ chức có quyền phân chia lãnh thổ thành các đơn vị hành chính",
+    "optionA": "Hội phụ nữ",
+    "optionB": "Mặt trận tổ quốc",
+    "optionC": "Công đoàn",
+    "optionD": "Nhà nước",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Pháp luật đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742416555474",
+    "content": "Hình thức cấu trúc Nhà nước đơn nhất có đặc điểm",
+    "optionA": "Một hệ thống pháp luật",
+    "optionB": "Hai hệ thống cơ quan Nhà nước",
+    "optionC": "Lãnh thổ có chủ quyền riêng",
+    "optionD": "Tất cả đều đúng",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Pháp luật đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742416596943",
+    "content": "Hình thức chính thể cộng hòa dân chủ nhân dân là hình thức chính thể của quốc gia",
+    "optionA": "Việt Nam",
+    "optionB": "Pháp",
+    "optionC": "Đức",
+    "optionD": "Nhật",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Pháp luật đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742417064720",
+    "content": "Đổi số bát phân sau sang dạng nhị phân: 5731",
+    "optionA": "110 111 011 001",
+    "optionB": "101 111 011 010",
+    "optionC": "101 111 011 001",
+    "optionD": "101 110 011 001",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Kĩ thuật số"
+    }
+  },
+  {
+    "questionId": "Q1742417308495",
+    "content": "Đối tượng nghiên cứu của môn tư tưởng HCM là:",
+    "optionA": "Hệ thống những quan điểm toàn diện và sâu sắc của HCM về những vấn đề cơ bản của cách mạng Việt Nam.",
+    "optionB": "Quá trình Đảng, Nhà nước vận dụng tư tưởng HCM",
+    "optionC": "Cơ sở, quá trình hình thành và phát triển tư tưởng HCM",
+    "optionD": "Cả 3 phương án trên",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Tư tưởng HCM"
+    }
+  },
+  {
+    "questionId": "Q1742417625689",
+    "content": "What do you think about people’s life’s ………. in the future?",
+    "optionA": "expect",
+    "optionB": "expectant",
+    "optionC": "expectancy",
+    "optionD": "expectation",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Tiếng Anh"
+    }
+  },
+  {
+    "questionId": "Q1742417718882",
+    "content": "Thời gian thực dân Pháp tiến hành khai thác thuộc địa lần thứ nhất ở Việt Nam khi nào ?",
+    "optionA": "1858-1884",
+    "optionB": "1884-1896",
+    "optionC": "1896-1913",
+    "optionD": "1914-1918",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Lịch sử Đảng"
+    }
+  },
+  {
+    "questionId": "Q1742627723052",
+    "content": "Trong mọi thời đại, những tư tưởng của giai cấp thóng trị là những tư tưởng thống nhất xã hội. Luận điểm này thể hiện lập trường triết học nào. Chọn câu trả lời đúng nhất:",
+    "optionA": "Chủ nghĩa duy vật tầm thường (chủ nghĩa kinh tế)",
+    "optionB": "Chủ nghĩa duy tâm chủ quan",
+    "optionC": "Chủ nghĩa duy tâm lịch sử",
+    "optionD": "Chủ nghĩa duy vật lịch sử",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742627777388",
+    "content": "Mọi thuyết đạo đức có từ trước đến nay, xét đến cùng, đều là sản phẩm của tình hình kinh tế lúc bấy giờ. Quan điểm này thuộc lập trường triết học nào? Chọn câu trả lời đúng nhất:",
+    "optionA": "Chủ nghĩa duy tâm lịch sử",
+    "optionB": "Chủ nghĩa duy vật lịch sử",
+    "optionC": "Chủ nghĩa duy vật",
+    "optionD": "Nhị nguyên luận",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742627824427",
+    "content": "Chủ nghĩa Mác nói chung, triết học Mác nói riêng ra đời vào những năm nào của thế kỷ XIX?",
+    "optionA": "Những năm 30 của thế kỷ XIX.",
+    "optionB": "Những năm 40 của thế kỷ XIX.",
+    "optionC": "Những năm 50 của thế kỷ XIX.",
+    "optionD": "Những năm 20 của thế kỷ XIX.",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742627858587",
+    "content": "Quan điểm nào cho rằng: mọi sự vật, hiện tượng chỉ là “phức hợp những cảm giác” của con người, của chủ thể nhận thức là quan điểm thể hiện lập trường triết học nào?",
+    "optionA": "Chủ nghĩa duy tâm chủ quan.",
+    "optionB": "Chủ nghĩa duy tâm khách quan.",
+    "optionC": "Chủ nghĩa duy vật siêu hình.",
+    "optionD": "Chủ nghĩa duy vật biện chứng.",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742627893282",
+    "content": "Hãy cho biết, trong những vấn đề dưới đây, việc giải quyết vấn đề nào sẽ là tiêu chuẩn để xác định lập trường thế giới quan của các triết gia và học thuyết của họ:",
+    "optionA": "Vấn đề giai cấp.",
+    "optionB": "Vấn đề con người.",
+    "optionC": "Vấn đề dân tộc.",
+    "optionD": "Vấn đề cơ bản của triết học.",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742627971640",
+    "content": "Cơ sở chung của quan hệ trao đổi giữa các hàng hóa là gì?",
+    "optionA": "Hao phí lao động kết tinh trong hàng hóa",
+    "optionB": "Công dụng của hàng hóa",
+    "optionC": "Sở thích của người tiêu dùng",
+    "optionD": "Sự khan hiếm của hàng hóa",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    }
+  },
+  {
+    "questionId": "Q1742628027436",
+    "content": "Nghị định là văn bản quy phạm pháp luật do cơ quan Nhà nước có thẩm quyền ban hành là:",
+    "optionA": "Chính phủ",
+    "optionB": "Uỷ ban thường vụ quốc hội",
+    "optionC": "Thủ tướng chính phủ",
+    "optionD": "Chủ tịch nước",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Pháp luật đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742628061353",
+    "content": "Bộ phận đảm bảo cho quy phạm pháp luật được thực hiện nghiêm chỉnh:",
+    "optionA": "Quy định",
+    "optionB": "Giả định",
+    "optionC": "Chế tài",
+    "optionD": "Câu a và b đúng",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Pháp luật đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742628256720",
+    "content": "Đại số Boole là một cấu trúc đại số được định nghĩa trên:",
+    "optionA": "Tập hợp số nhị phân.",
+    "optionB": "Tập hợp số thập phân.",
+    "optionC": "Tập hợp số lục phân.",
+    "optionD": "Tập hợp số thực.",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Kĩ thuật số"
+    }
+  },
+  {
+    "questionId": "Q1742628308170",
+    "content": "Với mọi phần tử x thuộc tập hợp B\u003d{0,1}, tồn tại các hằng số 0 và 1\nsao cho:",
+    "optionA": "x + 1 \u003d x ;  x.0 \u003d x",
+    "optionB": "x + 1 \u003d 1 ; x.0 \u003d x",
+    "optionC": "x + 1 \u003d x ; x.0 \u003d 0",
+    "optionD": "x + 1 \u003d 1 ; x.0 \u003d 0",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Kĩ thuật số"
+    }
+  },
+  {
+    "questionId": "Q1742628353719",
+    "content": "Loại mã nào dùng 8 bít nhị phân để mã hóa cho các ký tự và số trênbàn phím máy tính:",
+    "optionA": "Mã BCD",
+    "optionB": "Mã Gray",
+    "optionC": "Mã vòng",
+    "optionD": "Mã ASCII",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Kĩ thuật số"
+    }
+  },
+  {
+    "questionId": "Q1742628398008",
+    "content": "Mã Gray của số 14 là:",
+    "optionA": "10101",
+    "optionB": "00010100",
+    "optionC": "1110",
+    "optionD": "1001",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Kĩ thuật số"
+    }
+  },
+  {
+    "questionId": "Q1742628468882",
+    "content": "Trong nhà nước dân chủ của Hồ Chí Minh, nhân dân thực thi quyền dân chủ của mình qua mấy hình thức?",
+    "optionA": "3 hình thức",
+    "optionB": "4 hình thức",
+    "optionC": "2 hình thức",
+    "optionD": "1 hình thức",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Tư tưởng HCM"
+    }
+  },
+  {
+    "questionId": "Q1742628505022",
+    "content": "Theo Hồ Chí Minh, trong xây dựng Đảng “mục đích phê bình cốt để  , giúp nhau cùng tiến bộ”",
+    "optionA": "sửa chữa sai lầm",
+    "optionB": "giúp nhau sửa chữa",
+    "optionC": "sửa chữa khuyết điểm",
+    "optionD": "giúp nhau sửa sai",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Tư tưởng HCM"
+    }
+  },
+  {
+    "questionId": "Q1742628540662",
+    "content": "Hồ Chí Minh đưa ra khái niệm văn hóa vào khoảng thời gian nào?",
+    "optionA": "09/1942",
+    "optionB": "08/1942",
+    "optionC": "08/1943",
+    "optionD": "09/1943",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Tư tưởng HCM"
+    }
+  },
+  {
+    "questionId": "Q1742628576405",
+    "content": "Ai là người đã gợi ý cho Nguyễn Tất Thành về phương hướng tìm đường cứu nước qua câu nói: “Muốn đánh Pháp phải hiểu Pháp, muốn hiểu Pháp, phải học tiếng Pháp”?",
+    "optionA": "Nguyễn Quý Song",
+    "optionB": "Hoàng Thông",
+    "optionC": "Nguyễn Sinh Sắc",
+    "optionD": "Vương Thúc Quý",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Tư tưởng HCM"
+    }
+  },
+  {
+    "questionId": "Q1742628686676",
+    "content": "\"I have never been to Russia. I think I shall go there next year.” said Bill.",
+    "optionA": "Bill said that he had never been to Russia and he thought he would go there the next year.",
+    "optionB": "Bill said that he would have never been to Russia and he thinks he would go there the next year.",
+    "optionC": "Bill said that he had never been to Russia and he thinks he will go there the next year.",
+    "optionD": "Bill said that he has never been to Russia and he thinks he would go there the next year.",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Tiếng Anh"
+    }
+  },
+  {
+    "questionId": "Q1742628714894",
+    "content": "People believed that Jane retired because of her poor health.",
+    "optionA": "Jane is believed to have retired because of her poor health.",
+    "optionB": "Jane was believed to have retired because of her poor health.",
+    "optionC": "It is believed that Jane retired because of her poor health.",
+    "optionD": "Jane retired because of her poor health was believed.",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Tiếng Anh"
+    }
+  },
+  {
+    "questionId": "Q1742628748231",
+    "content": "The government knows the extent of the problem. The government needs to take action soon.",
+    "optionA": "The government knows the extent of the problem whereas it needs to take action soon.",
+    "optionB": "The government knows the extent of the problem so that it needs to take action soon.",
+    "optionC": "Knowing the extent of the problem, the government needs to take action soon.",
+    "optionD": "The government knows the extent of the problem, or else it needs to take action soon.",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Tiếng Anh"
+    }
+  },
+  {
+    "questionId": "Q1742628785323",
+    "content": "The substance is very toxic. Protective clothing must be worn at all times.",
+    "optionA": "Since the substance is very toxic, so protective clothing must be worn at all times.",
+    "optionB": "So toxic is the substance that protective clothing must be worn at all times.",
+    "optionC": "The substance is such toxic that protective clothing must be worn at all times.",
+    "optionD": "The substance is too toxic to wear protective clothing at all times.",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Tiếng Anh"
+    }
+  },
+  {
+    "questionId": "Q1742628853451",
+    "content": "Đặc điểm ra đời của giai cấp công nhân Việt Nam như thế nào?",
+    "optionA": "Ra đời trước giai cấp tư sản, trong cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp.",
+    "optionB": "Phần lớn xuất thân từ nông dân.",
+    "optionC": "hịu sự áp bức và bóc lột của đế quốc, phong kiến và tư sản đàn áp",
+    "optionD": "Cả A, B và C",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Lịch sử Đảng"
+    }
+  },
+  {
+    "questionId": "Q1742628887535",
+    "content": "Những giai cấp bị trị ở Việt Nam dưới chế độ thuộc địa của đế quốc Pháp là:",
+    "optionA": "Công nhân và nông dân",
+    "optionB": "Công nhân, nông dân, tiểu tư sản",
+    "optionC": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc",
+    "optionD": "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, địa chủ vừa và nhỏ",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Lịch sử Đảng"
+    }
+  },
+  {
+    "questionId": "Q1742628924558",
+    "content": "Khi nào phong trào công nhân Việt Nam hoàn toàn trở thành một phong trào tự giác?",
+    "optionA": "Năm 1920 (tổ chức công hội ở Sài Gòn được thành lập)",
+    "optionB": "Năm 1925 (cuộc bãi công Ba Son)",
+    "optionC": "Năm 1929 (sự ra đời ba tổ chức cộng sản)",
+    "optionD": "Năm 1930 (Đảng Cộng sản Việt Nam ra đời)",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Lịch sử Đảng"
+    }
+  },
+  {
+    "questionId": "Q1742628950966",
+    "content": "Nguyễn ái Quốc lựa chọn con đường giải phóng dân tộc theo khuynh hướng chính trị vô sản vào thời gian nào?",
+    "optionA": "1917",
+    "optionB": "1918",
+    "optionC": "1919",
+    "optionD": "1920",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Lịch sử Đảng"
+    }
+  },
+  {
+    "questionId": "Q1742707912872",
+    "content": "Hai xạ thủ A và B tập bắn một cách độc lập: A bắn 2 phát với xác suất trúng ở mỗi lần bắn là 0,7; B bắn 3 phát với xác suất trúng ở mỗi lần là 0,6. Xác suất để tổng số viên trúng bằng 4 là:",
+    "optionA": "0,2058",
+    "optionB": "0,2314",
+    "optionC": "0,5432",
+    "optionD": "0,3024",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Xác suất thống kê"
+    }
+  },
+  {
+    "questionId": "Q1742707957461",
+    "content": "Các bệnh nhân đến bệnh viện X để điều trị chỉ một trong 3 loại bệnh A, B, C. Trong số bệnh nhân đó có 60% điều trị bệnh A, 30% điều trị bệnh B và 10% điều trị bệnh C. Xác suất để chữa khỏi các bệnh A, B và C tương ứng là 0,9; 0,8 và 0,85. Tỷ lệ bệnh nhân được chữa khỏi bệnh là:",
+    "optionA": "0,835",
+    "optionB": "0,84",
+    "optionC": "0,865",
+    "optionD": "0,875",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Xác suất thống kê"
+    }
+  },
+  {
+    "questionId": "Q1742708008417",
+    "content": "Giả sử rằng xác suất sinh con trai và con gái đều bằng 0,5. Một gia đình có 4 người con. Xác suất để gia đình đó có không quá một con trai là:",
+    "optionA": "0,3125",
+    "optionB": "0,4375",
+    "optionC": "0,5625",
+    "optionD": "0,1875",
+    "correctAnswer": "A",
+    "subject": {
+      "subjectName": "Xác suất thống kê"
+    }
+  },
+  {
+    "questionId": "Q1742708098058",
+    "content": "Một lô hàng có tỷ lệ sản phẩm tốt là 80%. Trước khi đưa ra thị trường người ta sử dụng một thiết bị kiểm tra chất lượng để loại sản phẩm xấu. Thiết bị kiểm tra nhận biết đúng sản tốt với xác suất 0,95 và nhận đúng sản phẩm xấu với xác suất là 0,99. Tỷ lệ sản phẩm được đưa ra thị trường là:",
+    "optionA": "80%",
+    "optionB": "81,2%",
+    "optionC": "76,2%",
+    "optionD": "75%",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Xác suất thống kê"
+    }
+  },
+  {
+    "questionId": "Q1742708144438",
+    "content": "Có 5 ứng cử viên xin việc, trong đó có 2 ứng cử viên có đơn xin việc được xếp loại A. Giám đốc cần chọn ra 2 ứng cử viên. Xác suất của sự kiện trong 2 ứng cử viên được chọn có đúng 1 ứng cử viên có đơn xin việc xếp loại A là:",
+    "optionA": "6/10",
+    "optionB": "3/10",
+    "optionC": "2/10",
+    "optionD": "1",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Xác suất thống kê"
+    }
+  },
+  {
+    "questionId": "Q1742708555950",
+    "content": "Một ôtô dự định chuyển động từ A đến B với vận tốc 30km/h. Nhưng sau khi đi được 1/3 đoạn đường, xe bị chết máy. Tài xế phải dừng 30 phút để sửa xe, sau đó đi tiếp với vận tốc 40km/h và đến B đúng giờ qui định. Tính thời gian dự định chuyển động ban đầu của ôtô.",
+    "optionA": "2h",
+    "optionB": "3h",
+    "optionC": "2.5h",
+    "optionD": "3.5h",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Vật lý đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742708595507",
+    "content": "Một ôtô dự định chuyển động từ A đến B với vận tốc 30km/h. Nhưng sau khi đi được 1/3 đoạn đường, xe bị chết máy. Tài xế phải dừng 30 phút để sửa xe, sau đó đi tiếp với vận tốc 40km/h và đến B đúng giờ qui định. Tính quãng đường AB.",
+    "optionA": "60km",
+    "optionB": "80km",
+    "optionC": "90km",
+    "optionD": "100km",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Vật lý đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742708659838",
+    "content": "Một ôtô chuyển động từ A, qua các điểm B, C rồi đến D. Đoạn AB dài 50km, đường khó đi nên xe chạy với tốc độ 20km/h. Đoạn BC xe chạy với tốc độ 80 km/h, sau 3h30’ thì tới C. Tại C xe nghỉ 50 phút rồi đi tiếp đến D với vận tốc 30km/h. Tính tốc độ trung bình trên toàn bộ quãng đường từ A đến D, biết CD \u003d 3AB.",
+    "optionA": "33,3km/h",
+    "optionB": "41,7km/h",
+    "optionC": "31,1km/h",
+    "optionD": "43,6km/h",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Vật lý đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742708704826",
+    "content": "Súng đại bác đặt ngang mặt nước biển, bắn đạn với vận tốc đầu nòng 100m/s. Tính tầm xa cực đại của đạn.",
+    "optionA": "100m",
+    "optionB": "1000m",
+    "optionC": "800m",
+    "optionD": "2000m",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Vật lý đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742708940171",
+    "content": "Gia tốc tiếp tuyến đặc trưng cho:",
+    "optionA": "sự thay đổi về phương của vận tốc",
+    "optionB": "sự thay đổi về độ lớn của vận tốc",
+    "optionC": "sự nhanh, chậm của chuyển động",
+    "optionD": "sự thay đổi của tiếp tuyến quỹ đạo",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Vật lý đại cương"
+    }
+  },
+  {
+    "questionId": "Q1742709064961",
+    "content": "Trong số những yếu tố dưới đây, yếu tố nào là cơ sở trực tiếp cho sự hình thành thế giới quan",
+    "optionA": "Cảm giác.",
+    "optionB": "Tri giác.",
+    "optionC": "Tri thức.",
+    "optionD": "Vô thức.",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742709123180",
+    "content": "Điền từ còn thiếu trong câu sau “Vật chất là một phạm trù triết học dùng để chỉ ......... được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác”.",
+    "optionA": "Vật thể.",
+    "optionB": "Thực tại khách quan.",
+    "optionC": "Giới tự nhiên.",
+    "optionD": "Thực tại chủ quan.Hiển thị đáp án",
+    "correctAnswer": "B",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742710081733",
+    "content": "Điền từ còn thiếu trong câu sau “... là toàn bộ những quan niệm của con người về thế giới, về bản thân con người, về cuộc sống và vị trí của con người trong thế giới đó”.",
+    "optionA": "Phương pháp luận.",
+    "optionB": "Phương pháp.",
+    "optionC": "Nhân sinh quan.",
+    "optionD": "Thế giới quan",
+    "correctAnswer": "D",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742710170230",
+    "content": "Hãy chỉ ra thuộc tính cơ bản, phổ biến nhất của mọi dạng vật chất",
+    "optionA": "Có khối lượng.",
+    "optionB": "Có cấu trúc nguyên tử.",
+    "optionC": "Tồn tại khách quan.",
+    "optionD": "Lệ thuộc vào cảm giác",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  },
+  {
+    "questionId": "Q1742710250004",
+    "content": "Câu nói “Không thể tắm hai lần trên cùng một dòng sông” là của nhà triết học nào dưới đây",
+    "optionA": "Ta lét.",
+    "optionB": "Đêmôcrít.",
+    "optionC": "Hêraclít.",
+    "optionD": "Xôcrát.",
+    "correctAnswer": "C",
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\Code\Java\ProPuzzle\out\artifacts\ProPuzzle_jar\ProPuzzle.jar</jar>
+  <outfile>D:\Code\Java\ProPuzzle\out\artifacts\ProPuzzle_jar\ProPuzzle.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>17</minVersion>
+    <maxVersion></maxVersion>
+    <opt>--module-path &quot;C:\Users\ptphu\javafx-lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web,javafx.graphics,javafx.media,javafx.swing</opt>
+  </jre>
+</launch4jConfig>

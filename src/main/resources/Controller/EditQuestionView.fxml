@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="454.0" prefWidth="800.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.EditQuestionController">
+
+    <VBox alignment="TOP_CENTER" prefHeight="454.0" prefWidth="800.0" spacing="20" style="-fx-padding: 10; -fx-background-color: #ffffff;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+
+        <!-- Tiêu đề -->
+        <Label style="-fx-font-size: 18; -fx-font-weight: bold;" text="Sửa câu hỏi" />
+
+        <!-- Khu vực form nhập liệu (GridPane) -->
+        <GridPane alignment="CENTER" hgap="10" vgap="10.0">
+            <!-- Môn Học -->
+            <Label text="Môn Học:" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+            <TextField fx:id="txtMonHoc" promptText="Nhập môn học" GridPane.columnIndex="1" />
+            <!-- Câu hỏi -->
+            <Label text="Câu hỏi:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+
+            <!-- Đáp án A -->
+            <Label text="Đáp án A:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+            <TextField fx:id="txtDapAnA" promptText="Nhập đáp án A" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+
+            <!-- Đáp án B -->
+            <Label text="Đáp án B:" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+            <TextField fx:id="txtDapAnB" promptText="Nhập đáp án B" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+
+            <!-- Đáp án C -->
+            <Label text="Đáp án C:" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+            <TextField fx:id="txtDapAnC" promptText="Nhập đáp án C" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+
+            <!-- Đáp án đúng -->
+            <Label text="Đáp án đúng:" GridPane.columnIndex="0" GridPane.rowIndex="6" />
+            <TextField fx:id="txtDapAnDung" promptText="Nhập đáp án đúng" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+            <Label text="Đáp án D:" GridPane.rowIndex="5" />
+            <TextField fx:id="txtDapAnD" promptText="Nhập đáp án D" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <VBox prefHeight="200.0" prefWidth="100.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                <children>
+                    <Button mnemonicParsing="false" prefHeight="26.0" prefWidth="150.0" text="Chèn công thức">
+                        <VBox.margin>
+                            <Insets bottom="5.0" />
+                        </VBox.margin>
+                    </Button>
+                    <TextArea fx:id="txtCauHoi" nodeOrientation="LEFT_TO_RIGHT" prefHeight="66.0" prefWidth="578.0" promptText="Nhập nội dung câu hỏi" style="-fx-pref-row-count: 3; -fx-pref-width: 200;">
+                        <opaqueInsets>
+                            <Insets />
+                        </opaqueInsets>
+                    </TextArea>
+                </children>
+            </VBox>
+
+            <columnConstraints>
+                <ColumnConstraints />
+                <ColumnConstraints percentWidth="75.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints />
+                <RowConstraints />
+                <RowConstraints />
+                <RowConstraints />
+                <RowConstraints />
+                <RowConstraints />
+                <RowConstraints />
+            </rowConstraints>
+        </GridPane>
+
+        <!-- Nút Lưu thay đổi, Hủy bỏ -->
+        <HBox alignment="CENTER" spacing="15">
+            <Button fx:id="btnLuu" onAction="#handleSaveChanges" style="-fx-background-color: #1a73e8; -fx-text-fill: white; -fx-font-weight: bold;" text="Lưu thay đổi" />
+            <Button fx:id="btnHuyBo" onAction="#handleCancel" style="-fx-font-weight: bold;" text="Hủy bỏ" />
+        </HBox>
+
+    </VBox>
+</AnchorPane>

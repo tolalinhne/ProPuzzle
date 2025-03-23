@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="454.0" prefWidth="800" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.StudentPracticeController">
+
+    <VBox layoutX="572.0" layoutY="23.0" prefHeight="172.0" prefWidth="214.0" spacing="10" style="-fx-padding: 10; -fx-background-color: #ffffff;">
+        <Label prefHeight="35.0" prefWidth="204.0" style="-fx-font-size: 16px;                   -fx-font-weight: bold;                   -fx-text-fill: #ffffff;                   -fx-background-color: #b30000;                   -fx-padding: 5 10;" text="SINH VIÊN" />
+
+        <!-- Khu vực hiển thị Tài khoản -->
+        <HBox alignment="CENTER_LEFT" spacing="10">
+            <Label style="-fx-font-weight: bold;" text="Tài khoản:" />
+            <Label fx:id="lblUsername" text="..." />
+        </HBox>
+
+        <!-- Khu vực hiển thị Họ và tên -->
+        <HBox spacing="10">
+            <Label style="-fx-font-weight: bold;" text="Họ và tên:" />
+            <Label fx:id="lblFullName" text="..." />
+        </HBox>
+        <Button fx:id="btnLogout" onAction="#handleLogout" prefHeight="26.0" prefWidth="193.0" style="-fx-background-color: #ff6666; -fx-text-fill: white; -fx-font-weight: bold;" text="Đăng xuất" />
+
+        <!-- Nút và liên kết -->
+        <HBox alignment="TOP_RIGHT" spacing="20">
+            <Hyperlink style="-fx-text-fill: #0000cc;" text="Đổi mật khẩu" />
+        </HBox>
+
+    </VBox>
+
+    <VBox layoutX="572.0" layoutY="228.0" prefHeight="203.0" prefWidth="214.0" spacing="5" style="-fx-padding: 10; -fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml">
+
+        <!-- Tiêu đề -->
+        <Label prefHeight="35.0" prefWidth="204.0" style="-fx-font-size: 16px;                   -fx-font-weight: bold;                   -fx-text-fill: #ffffff;                   -fx-background-color: #b30000;                   -fx-padding: 5 10;" text="TÍNH NĂNG" />
+
+        <!-- Danh sách tính năng -->
+        <HBox spacing="5">
+            <Label style="-fx-text-fill: #b30000;" text="&gt;" />
+            <Hyperlink fx:id="btnHome" onAction="#handleHome" text="Trang chủ" />
+        </HBox>
+        <HBox spacing="5">
+            <Label style="-fx-text-fill: #b30000;" text="&gt;" />
+            <Hyperlink fx:id="btnProfile" onAction="#handleProfileInfo" text="Thông tin cá nhân" />
+        </HBox>
+        <HBox spacing="5">
+            <Label style="-fx-text-fill: #b30000;" text="&gt;" />
+            <Hyperlink fx:id="btnPractice" onAction="#handlePracticeExam" text="Luyện tập" />
+        </HBox>
+        <HBox spacing="5">
+            <Label style="-fx-text-fill: #b30000;" text="&gt;" />
+            <Hyperlink fx:id="btnExam" onAction="#handleExamTest" text="Kiểm tra" />
+        </HBox>
+
+    </VBox>
+
+    <VBox layoutX="17.0" layoutY="23.0" prefHeight="381.0" prefWidth="539.0" spacing="15" style="-fx-padding: 10; -fx-background-color: #ffffff;">
+
+        <!-- ĐỀ ĐÃ LƯU -->
+        <Label prefHeight="35.0" prefWidth="512.0" style="-fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: #ffffff; -fx-background-color: #b30000; -fx-padding: 5 10;" text="ĐỀ ĐÃ LƯU" />
+        <TableView fx:id="tableSaved" prefHeight="150.0" prefWidth="500.0">
+            <columns>
+                <TableColumn fx:id="colSavedName" prefWidth="280.7999938726425" text="Tên bài" />
+                <TableColumn fx:id="colSavedSubject" prefWidth="101.5999755859375" text="Môn học" />
+                <TableColumn fx:id="colSavedAction" prefWidth="135.19998168945312" text="Thao tác" />
+            </columns>
+         <VBox.margin>
+            <Insets right="8.0" />
+         </VBox.margin>
+        </TableView>
+
+        <!-- ĐỀ LÀM GẦN ĐÂY -->
+        <Label prefHeight="35.0" prefWidth="512.0" style="-fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: #ffffff; -fx-background-color: #b30000; -fx-padding: 5 10;" text="ĐỀ LÀM GẦN ĐÂY" />
+        <TableView fx:id="tableRecent" prefHeight="150.0" prefWidth="500.0">
+            <columns>
+                <TableColumn fx:id="colRecentName" prefWidth="264.00000607967377" text="Tên bài" />
+                <TableColumn fx:id="colRecentScore" prefWidth="115.20001220703125" text="Điểm gần nhất" />
+                <TableColumn fx:id="colRecentAction" prefWidth="138.39999389648438" text="Thao tác" />
+            </columns>
+         <VBox.margin>
+            <Insets right="8.0" />
+         </VBox.margin>
+        </TableView>
+    </VBox>
+</AnchorPane>

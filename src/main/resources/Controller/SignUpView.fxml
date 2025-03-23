@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="400" prefWidth="600" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.SignUpController">
+    <children>
+
+        <VBox alignment="CENTER" spacing="15" AnchorPane.leftAnchor="150.0" AnchorPane.rightAnchor="150.0" AnchorPane.topAnchor="50.0">
+            <Label style="-fx-font-size: 24px; -fx-font-weight: bold;" text="Đăng ký" />
+         <TextField fx:id="txtName" prefWidth="300" promptText="Họ và tên" />
+            <TextField fx:id="txtUsername" prefWidth="300" promptText="Tên đăng nhập" />
+            <PasswordField fx:id="txtPassword" prefWidth="300" promptText="Mật khẩu" />
+            <PasswordField fx:id="txtConfirmPassword" prefWidth="300" promptText="Mật khẩu" />
+           <ComboBox fx:id="comboRole" prefWidth="300" promptText="Bạn là?">
+               <items>
+                   <FXCollections fx:factory="observableArrayList">
+                       <String fx:value="Sinh viên" />
+                       <String fx:value="Giảng viên" />
+                   </FXCollections>
+               </items>
+           </ComboBox>
+            <Button fx:id="btnSignUp" onAction="#onSignUpButtonClicked" prefWidth="300" text="Đăng ký" />
+         <HBox prefHeight="36.0" prefWidth="299.0">
+            <children>
+               <Label prefHeight="24.0" prefWidth="110.0" text="Bạn đã có tài khoản?" />
+                  <Hyperlink onAction="#onBackToLoginClicked" text="Đăng nhập" />
+            </children>
+         </HBox>
+        </VBox>
+    </children>
+</AnchorPane>

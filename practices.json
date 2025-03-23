@@ -1,0 +1,214 @@
+[
+  {
+    "practiceId": "PE1742493179721",
+    "name": "Bài luyện tập 1 - Môn Toán",
+    "questionIds": [
+      "Q1742337654092",
+      "Q1742337733443",
+      "Q1742338454893"
+    ],
+    "subject": {
+      "subjectName": "Toán"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742493203293",
+    "name": "Bài luyện tập 1 - môn KTCT",
+    "questionIds": [
+      "Q1742363595990",
+      "Q1742363648422",
+      "Q1742363768864",
+      "Q1742363853180"
+    ],
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742493243306",
+    "name": "Bài luyện tập 1 - Môn Pháp luật đại cương",
+    "questionIds": [
+      "Q1742416473359",
+      "Q1742416555474",
+      "Q1742416596943"
+    ],
+    "subject": {
+      "subjectName": "Pháp luật đại cương"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742493265250",
+    "name": "Bài luyện tập 1 - môn kĩ thuật số",
+    "questionIds": [
+      "Q1742417064720"
+    ],
+    "subject": {
+      "subjectName": "Kĩ thuật số"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742493288574",
+    "name": "Bài luyện tập 1 - Môn tư tưởng HCM",
+    "questionIds": [
+      "Q1742417308495"
+    ],
+    "subject": {
+      "subjectName": "Tư tưởng HCM"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742493305121",
+    "name": "Bài luyện tập 1 - Môn Tiếng Anh",
+    "questionIds": [
+      "Q1742417625689"
+    ],
+    "subject": {
+      "subjectName": "Tiếng Anh"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742493322870",
+    "name": "Bài luyện tập 1 - môn lịch sử Đảng",
+    "questionIds": [
+      "Q1742417718882"
+    ],
+    "subject": {
+      "subjectName": "Lịch sử Đảng"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742527252156",
+    "name": "Bài luyện tập 2 - Môn Toán",
+    "questionIds": [
+      "Q1742338843543",
+      "Q1742339316937",
+      "Q1742364010660",
+      "Q1742364140316",
+      "Q1742364509386"
+    ],
+    "subject": {
+      "subjectName": "Toán"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742527276571",
+    "name": "Bài luyện tâp 3 - Môn Toán",
+    "questionIds": [
+      "Q1742337654092",
+      "Q1742337733443",
+      "Q1742338454893",
+      "Q1742338843543",
+      "Q1742339316937",
+      "Q1742364010660",
+      "Q1742364048346",
+      "Q1742364105738",
+      "Q1742364140316",
+      "Q1742364278301",
+      "Q1742364314304",
+      "Q1742364509386",
+      "Q1742364562108"
+    ],
+    "subject": {
+      "subjectName": "Toán"
+    },
+    "teacherUsername": "linh"
+  },
+  {
+    "practiceId": "PE1742710400881",
+    "name": "Bài luyện tập 2 - Môn Triết học",
+    "questionIds": [
+      "Q1742627723052",
+      "Q1742627777388",
+      "Q1742627824427",
+      "Q1742627858587",
+      "Q1742709123180"
+    ],
+    "subject": {
+      "subjectName": "Triết học Mác - Lênin"
+    },
+    "teacherUsername": "nhi123"
+  },
+  {
+    "practiceId": "PE1742710430195",
+    "name": "Bài luyện tập 1 - Môn Vật Lý",
+    "questionIds": [
+      "Q1742708555950",
+      "Q1742708595507",
+      "Q1742708659838",
+      "Q1742708704826",
+      "Q1742708940171"
+    ],
+    "subject": {
+      "subjectName": "Vật lý đại cương"
+    },
+    "teacherUsername": "nhi123"
+  },
+  {
+    "practiceId": "PE1742710469038",
+    "name": "Bài luyện tập 2 - Môn Tư tưởng HCM",
+    "questionIds": [
+      "Q1742417308495",
+      "Q1742628468882",
+      "Q1742628505022",
+      "Q1742628540662",
+      "Q1742628576405"
+    ],
+    "subject": {
+      "subjectName": "Tư tưởng HCM"
+    },
+    "teacherUsername": "nhi123"
+  },
+  {
+    "practiceId": "PE1742710544248",
+    "name": "Bài luyên tập 2 - Môn KTCT",
+    "questionIds": [
+      "Q1742363595990",
+      "Q1742363648422",
+      "Q1742363768864",
+      "Q1742363853180",
+      "Q1742627971640"
+    ],
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    },
+    "teacherUsername": "linh1"
+  },
+  {
+    "practiceId": "PE1742710566362",
+    "name": "Bài luyện tập 2 - Môn Kĩ thuật số",
+    "questionIds": [
+      "Q1742417064720",
+      "Q1742628256720",
+      "Q1742628308170",
+      "Q1742628353719",
+      "Q1742628398008"
+    ],
+    "subject": {
+      "subjectName": "Kĩ thuật số"
+    },
+    "teacherUsername": "linh1"
+  },
+  {
+    "practiceId": "PE1742710590116",
+    "name": "Bài luyện tập 2 - Môn Tiếng Anh",
+    "questionIds": [
+      "Q1742417625689",
+      "Q1742628686676",
+      "Q1742628714894",
+      "Q1742628748231",
+      "Q1742628785323"
+    ],
+    "subject": {
+      "subjectName": "Tiếng Anh"
+    },
+    "teacherUsername": "linh1"
+  }
+]

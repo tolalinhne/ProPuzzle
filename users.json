@@ -1,0 +1,136 @@
+[
+  {
+    "username": "linh",
+    "password": "123456",
+    "name": "Phạm Mai Linh",
+    "birthday": "14/01/2005",
+    "gender": "Nữ",
+    "email": "plinh7009@gmail.com",
+    "phone": "0385 276 198",
+    "role": "Giảng viên",
+    "favoritePracticeIds": []
+  },
+  {
+    "username": "nhi123",
+    "password": "123456789",
+    "name": "Lê Yến Nhi",
+    "birthday": "26/09/2005",
+    "gender": "Nữ",
+    "email": "nhi123@gmail.com",
+    "phone": "0385 276 198",
+    "role": "Giảng viên",
+    "favoritePracticeIds": []
+  },
+  {
+    "username": "linh1",
+    "password": "123456",
+    "name": "Phạm Mai Linh",
+    "birthday": "14/01/2005",
+    "gender": "N/A",
+    "email": "",
+    "phone": "",
+    "role": "Giảng viên",
+    "favoritePracticeIds": []
+  },
+  {
+    "username": "Linh2",
+    "password": "123456",
+    "name": "Phạm Mai Linh",
+    "birthday": "14/01/2005",
+    "gender": "N/A",
+    "email": "plinh7009@gmail.com",
+    "phone": "0385 276 198",
+    "role": "Sinh viên",
+    "favoritePracticeIds": [
+      "PE1742493243306",
+      "PE1742493265250",
+      "PE1742710400881"
+    ]
+  },
+  {
+    "username": "linh14",
+    "password": "123456",
+    "name": "Phạm Mai Linh",
+    "birthday": "14/01/2005",
+    "gender": "Nữ",
+    "email": "plinh7009@gmail.com",
+    "phone": "0385 276 198",
+    "role": "Sinh viên",
+    "favoritePracticeIds": [
+      "PE1742527276571",
+      "PE1742493179721",
+      "PE1742493203293",
+      "PE1742493243306",
+      "PE1742493265250",
+      "PE1742493288574",
+      "PE1742493305121",
+      "PE1742493322870",
+      "PE1742527252156"
+    ]
+  },
+  {
+    "username": "nhinhi",
+    "password": "123456",
+    "name": "Lê Yến Nhi",
+    "birthday": "",
+    "gender": "N/A",
+    "email": "",
+    "phone": "",
+    "role": "Sinh viên",
+    "favoritePracticeIds": [
+      "PE1742493203293",
+      "PE1742493288574",
+      "PE1742710469038",
+      "PE1742493179721",
+      "PE1742527252156"
+    ]
+  },
+  {
+    "username": "nhat",
+    "password": "123456",
+    "name": "Phạm Minh Nhật",
+    "birthday": "",
+    "gender": "N/A",
+    "email": "",
+    "phone": "",
+    "role": "Sinh viên",
+    "favoritePracticeIds": [
+      "PE1742493305121"
+    ]
+  },
+  {
+    "username": "lananh",
+    "password": "123456",
+    "name": "Phạm Lan Anh",
+    "birthday": "",
+    "gender": "N/A",
+    "email": "",
+    "phone": "",
+    "role": "Sinh viên",
+    "favoritePracticeIds": [
+      "PE1742493179721"
+    ]
+  },
+  {
+    "username": "linh123",
+    "password": "123456",
+    "name": "Phạm Mai Linh",
+    "birthday": "",
+    "gender": "N/A",
+    "email": "",
+    "phone": "",
+    "role": "Giảng viên",
+    "favoritePracticeIds": []
+  },
+  {
+    "username": "linh12",
+    "password": "123456",
+    "name": "Phạm Mai LInh",
+    "birthday": "14/01/2005",
+    "gender": "Nữ",
+    "email": "plinh7009@gmail.com",
+    "phone": "0385 276 198",
+    "role": "Giảng viên",
+    "favoritePracticeIds": []
+  }
+]

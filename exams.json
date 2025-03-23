@@ -1,0 +1,69 @@
+[
+  {
+    "examId": "EX1742589912518",
+    "name": "Bài kiểm tra số 01 - Môn Toán",
+    "subject": {
+      "subjectName": "Toán"
+    },
+    "teacherUsername": "linh",
+    "questionIds": [
+      "Q1742337654092",
+      "Q1742337733443",
+      "Q1742338454893"
+    ],
+    "startTime": "2025-03-22T03:45:00",
+    "endTime": "2025-03-22T05:45:00",
+    "pass": "T01"
+  },
+  {
+    "examId": "EX1742611062105",
+    "name": "Bài kiểm tra số 02 - Môn Toán",
+    "subject": {
+      "subjectName": "Toán"
+    },
+    "teacherUsername": "linh",
+    "questionIds": [
+      "Q1742337654092",
+      "Q1742337733443",
+      "Q1742338454893",
+      "Q1742339316937"
+    ],
+    "startTime": "2025-03-22T09:38:00",
+    "endTime": "2025-03-22T10:38:00",
+    "pass": "T02"
+  },
+  {
+    "examId": "EX1742668963455",
+    "name": "Bài kiểm tra số 01 - Môn KTCT",
+    "subject": {
+      "subjectName": "Kinh tế chính trị"
+    },
+    "teacherUsername": "linh",
+    "questionIds": [
+      "Q1742363595990",
+      "Q1742363648422",
+      "Q1742363768864",
+      "Q1742363853180",
+      "Q1742627971640"
+    ],
+    "startTime": "2025-03-23T01:41:00",
+    "endTime": "2025-03-23T01:46:00",
+    "pass": "KTCT01"
+  },
+  {
+    "examId": "EX1742736348239",
+    "name": "Bài kiểm tra số 01 - Môn Toán",
+    "subject": {
+      "subjectName": "Toán"
+    },
+    "teacherUsername": "linh12",
+    "questionIds": [
+      "Q1742337654092",
+      "Q1742337733443",
+      "Q1742338454893"
+    ],
+    "startTime": "2025-03-23T20:25:00",
+    "endTime": "2025-03-23T20:35:00",
+    "pass": "T01"
+  }
+]
